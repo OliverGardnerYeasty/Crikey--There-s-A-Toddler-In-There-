@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 5cfbf59167a2681478e79bd89fde66c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4745167781516259858
+    second: gorillas-hiddenone_orig (1)_0
+  - first:
+      213: -1629226144838674029
+    second: gorillas-hiddenone_orig (1)_1
+  - first:
+      213: 6328248350009072397
+    second: gorillas-hiddenone_orig (1)_2
+  - first:
+      213: 8194410849646464014
+    second: gorillas-hiddenone_orig (1)_3
+  - first:
+      213: 709480572047215037
+    second: gorillas-hiddenone_orig (1)_4
+  - first:
+      213: -8434552662465700700
+    second: gorillas-hiddenone_orig (1)_5
+  - first:
+      213: 7685081519204047787
+    second: gorillas-hiddenone_orig (1)_6
+  - first:
+      213: 5550768432658121969
+    second: gorillas-hiddenone_orig (1)_7
+  - first:
+      213: -5953241892662973303
+    second: gorillas-hiddenone_orig (1)_8
+  - first:
+      213: 7379451106750670929
+    second: gorillas-hiddenone_orig (1)_9
+  - first:
+      213: 8119173572954200420
+    second: gorillas-hiddenone_orig (1)_10
+  - first:
+      213: 8753137873473874224
+    second: gorillas-hiddenone_orig (1)_11
+  - first:
+      213: 1918461099527103885
+    second: gorillas-hiddenone_orig (1)_12
+  - first:
+      213: 1256817276060381524
+    second: gorillas-hiddenone_orig (1)_13
+  - first:
+      213: -5884311028706437868
+    second: gorillas-hiddenone_orig (1)_14
+  - first:
+      213: -8230364955378592566
+    second: gorillas-hiddenone_orig (1)_15
+  - first:
+      213: -6585967087182801570
+    second: gorillas-hiddenone_orig (1)_16
+  - first:
+      213: 7370366403438052059
+    second: gorillas-hiddenone_orig (1)_17
+  - first:
+      213: -5367651556714370818
+    second: gorillas-hiddenone_orig (1)_18
+  - first:
+      213: -8082145629515175155
+    second: gorillas-hiddenone_orig (1)_19
+  - first:
+      213: 3285681106980696882
+    second: gorillas-hiddenone_orig (1)_20
+  - first:
+      213: -7414789279764723478
+    second: gorillas-hiddenone_orig (1)_21
+  - first:
+      213: -7679974039838678335
+    second: gorillas-hiddenone_orig (1)_22
+  - first:
+      213: -7843296362235960279
+    second: gorillas-hiddenone_orig (1)_23
+  - first:
+      213: -1016947743448554374
+    second: gorillas-hiddenone_orig (1)_24
+  - first:
+      213: 8246268226797894691
+    second: gorillas-hiddenone_orig (1)_25
+  - first:
+      213: -5557814550691629268
+    second: gorillas-hiddenone_orig (1)_26
+  - first:
+      213: 9158691810395345135
+    second: gorillas-hiddenone_orig (1)_27
+  - first:
+      213: 994051811187394590
+    second: gorillas-hiddenone_orig (1)_28
+  - first:
+      213: 3181017729921705933
+    second: gorillas-hiddenone_orig (1)_29
+  - first:
+      213: 5237161435589184439
+    second: gorillas-hiddenone_orig (1)_30
+  - first:
+      213: 7990814744960257970
+    second: gorillas-hiddenone_orig (1)_31
+  - first:
+      213: 2212174468602384085
+    second: gorillas-hiddenone_orig (1)_32
+  - first:
+      213: -4123698842613729891
+    second: gorillas-hiddenone_orig (1)_33
+  - first:
+      213: -6493793123264776106
+    second: gorillas-hiddenone_orig (1)_34
+  - first:
+      213: 3283639562877485771
+    second: gorillas-hiddenone_orig (1)_35
+  - first:
+      213: -5435592109794556037
+    second: gorillas-hiddenone_orig (1)_36
+  - first:
+      213: 9167382936411362908
+    second: gorillas-hiddenone_orig (1)_37
+  - first:
+      213: -3333743038821638595
+    second: gorillas-hiddenone_orig (1)_38
+  - first:
+      213: -7915184909519707910
+    second: gorillas-hiddenone_orig (1)_39
+  - first:
+      213: 5696612336602735038
+    second: gorillas-hiddenone_orig (1)_40
+  - first:
+      213: 7375354493380733011
+    second: gorillas-hiddenone_orig (1)_41
+  - first:
+      213: -2190447705601506227
+    second: gorillas-hiddenone_orig (1)_42
+  - first:
+      213: 3547774945531835944
+    second: gorillas-hiddenone_orig (1)_43
+  - first:
+      213: 7065296761035180449
+    second: gorillas-hiddenone_orig (1)_44
+  - first:
+      213: 6815583932439841730
+    second: gorillas-hiddenone_orig (1)_45
+  - first:
+      213: -6637170035110282994
+    second: gorillas-hiddenone_orig (1)_46
+  - first:
+      213: 2192688992635199428
+    second: gorillas-hiddenone_orig (1)_47
+  - first:
+      213: -924326896025497869
+    second: gorillas-hiddenone_orig (1)_48
+  - first:
+      213: -7762024477659806506
+    second: gorillas-hiddenone_orig (1)_49
+  - first:
+      213: 1143241973604576961
+    second: gorillas-hiddenone_orig (1)_50
+  - first:
+      213: -7969002505330008923
+    second: gorillas-hiddenone_orig (1)_51
+  - first:
+      213: 4707744743247424348
+    second: gorillas-hiddenone_orig (1)_52
+  - first:
+      213: -5933007523559429776
+    second: gorillas-hiddenone_orig (1)_53
+  - first:
+      213: -5621771553103040934
+    second: gorillas-hiddenone_orig (1)_54
+  - first:
+      213: 6388089166430018192
+    second: gorillas-hiddenone_orig (1)_55
+  - first:
+      213: 557641412030600681
+    second: gorillas-hiddenone_orig (1)_56
+  - first:
+      213: 6839043171154749021
+    second: gorillas-hiddenone_orig (1)_57
+  - first:
+      213: -7317198964710360042
+    second: gorillas-hiddenone_orig (1)_58
+  - first:
+      213: 5790743513085023485
+    second: gorillas-hiddenone_orig (1)_59
+  - first:
+      213: 3718971428560730861
+    second: gorillas-hiddenone_orig (1)_60
+  - first:
+      213: -5079117710612389517
+    second: gorillas-hiddenone_orig (1)_61
+  - first:
+      213: 5718491270646354730
+    second: gorillas-hiddenone_orig (1)_62
+  - first:
+      213: -924322014454471033
+    second: gorillas-hiddenone_orig (1)_63
+  - first:
+      213: 974358954791168557
+    second: gorillas-hiddenone_orig (1)_64
+  - first:
+      213: -254905034995036854
+    second: gorillas-hiddenone_orig (1)_65
+  - first:
+      213: -2874219593163566656
+    second: gorillas-hiddenone_orig (1)_66
+  - first:
+      213: 8322469352583633100
+    second: gorillas-hiddenone_orig (1)_67
+  - first:
+      213: -5377638888611793684
+    second: gorillas-hiddenone_orig (1)_68
+  - first:
+      213: -1907535652363524888
+    second: gorillas-hiddenone_orig (1)_69
+  - first:
+      213: 4689130116741300808
+    second: gorillas-hiddenone_orig (1)_70
+  - first:
+      213: -3465304891177903626
+    second: gorillas-hiddenone_orig (1)_71
+  - first:
+      213: 2478155972117427064
+    second: gorillas-hiddenone_orig (1)_72
+  - first:
+      213: -8627764713973212247
+    second: gorillas-hiddenone_orig (1)_73
+  - first:
+      213: -429155967867876470
+    second: gorillas-hiddenone_orig (1)_74
+  - first:
+      213: 2970032916560350342
+    second: gorillas-hiddenone_orig (1)_75
+  - first:
+      213: -656675161684859870
+    second: gorillas-hiddenone_orig (1)_76
+  - first:
+      213: 8879493255436593752
+    second: gorillas-hiddenone_orig (1)_77
+  - first:
+      213: 272947745910285803
+    second: gorillas-hiddenone_orig (1)_78
+  - first:
+      213: 3287955604056957344
+    second: gorillas-hiddenone_orig (1)_79
+  - first:
+      213: -7223596504944006241
+    second: gorillas-hiddenone_orig (1)_80
+  - first:
+      213: 7110103003879491733
+    second: gorillas-hiddenone_orig (1)_81
+  - first:
+      213: -5084371414907315694
+    second: gorillas-hiddenone_orig (1)_82
+  - first:
+      213: -6713907858977832503
+    second: gorillas-hiddenone_orig (1)_83
+  - first:
+      213: 5339010847048253866
+    second: gorillas-hiddenone_orig (1)_84
+  - first:
+      213: 8161992374723081336
+    second: gorillas-hiddenone_orig (1)_85
+  - first:
+      213: 8895321042797684443
+    second: gorillas-hiddenone_orig (1)_86
+  - first:
+      213: -1221132467089632638
+    second: gorillas-hiddenone_orig (1)_87
+  - first:
+      213: -2400417005332076088
+    second: gorillas-hiddenone_orig (1)_88
+  - first:
+      213: -8969381198533474730
+    second: gorillas-hiddenone_orig (1)_89
+  - first:
+      213: 2774785397997755613
+    second: gorillas-hiddenone_orig (1)_90
+  - first:
+      213: -2109924921464881363
+    second: gorillas-hiddenone_orig (1)_91
+  - first:
+      213: -7425460330414554425
+    second: gorillas-hiddenone_orig (1)_92
+  - first:
+      213: -4208800748006955612
+    second: gorillas-hiddenone_orig (1)_93
+  - first:
+      213: 7708663214114185417
+    second: gorillas-hiddenone_orig (1)_94
+  - first:
+      213: 3700056783449634897
+    second: gorillas-hiddenone_orig (1)_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed481f2b07c52eb0800000000000000
+      internalID: -4745167781516259858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 336
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999c1a0473d369e0800000000000000
+      internalID: -1629226144838674029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b1eb8885472d750800000000000000
+      internalID: 6328248350009072397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc8cc704568b170800000000000000
+      internalID: 8194410849646464014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 336
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94aef32d498d900800000000000000
+      internalID: 709480572047215037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac186aaa0372fa80800000000000000
+      internalID: -8434552662465700700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9316ace4e6aa60800000000000000
+      internalID: 7685081519204047787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 336
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40a03fa7a480d40800000000000000
+      internalID: 5550768432658121969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c69dd4a06d16da0800000000000000
+      internalID: -5953241892662973303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ac3ffea3196660800000000000000
+      internalID: 7379451106750670929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 336
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699cade8591da070800000000000000
+      internalID: 8119173572954200420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 336
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ad621584697970800000000000000
+      internalID: 8753137873473874224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e7b0a43ebf9a10800000000000000
+      internalID: 1918461099527103885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451372757ac117110800000000000000
+      internalID: 1256817276060381524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4151a0abb4ab65ea0800000000000000
+      internalID: -5884311028706437868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d5deedaed7cd80800000000000000
+      internalID: -8230364955378592566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551e0204d1f994a0800000000000000
+      internalID: -6585967087182801570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2066da13dc84660800000000000000
+      internalID: 7370366403438052059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a7f329554285b0800000000000000
+      internalID: -5367651556714370818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba5c9fe5376df80800000000000000
+      internalID: -8082145629515175155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fbcafe85199d20800000000000000
+      internalID: 3285681106980696882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8cf3f6f60691990800000000000000
+      internalID: -7414789279764723478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a13f0d404b6590800000000000000
+      internalID: -7679974039838678335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924efcc9383072390800000000000000
+      internalID: -7843296362235960279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742d945a6313e1f0800000000000000
+      internalID: -1016947743448554374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf0ecf241a07270800000000000000
+      internalID: 8246268226797894691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27378adc1daed2b0800000000000000
+      internalID: -5557814550691629268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0d4ed3da53a1f70800000000000000
+      internalID: 9158691810395345135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1888260bd49bcd00800000000000000
+      internalID: 994051811187394590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e33885ce352c20800000000000000
+      internalID: 3181017729921705933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0ba7f3922ea840800000000000000
+      internalID: 5237161435589184439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4f436ca315ee60800000000000000
+      internalID: 7990814744960257970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5decb3665f833be10800000000000000
+      internalID: 2212174468602384085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 240
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b15d30cda5c6c0800000000000000
+      internalID: -4123698842613729891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bdea5f8961e5a0800000000000000
+      internalID: -6493793123264776106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24bb3f8c4d19d20800000000000000
+      internalID: 3283639562877485771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7787cf66c5e094b0800000000000000
+      internalID: -5435592109794556037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d6c4b536193f70800000000000000
+      internalID: 9167382936411362908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eda9e7e5a2cb1d0800000000000000
+      internalID: -3333743038821638595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ab80e24d972290800000000000000
+      internalID: -7915184909519707910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1605afcbe6e0f40800000000000000
+      internalID: 5696612336602735038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582a8ed5d58a5660800000000000000
+      internalID: 7375354493380733011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448d80da67f991e0800000000000000
+      internalID: -2190447705601506227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 193
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b47b148a3c3130800000000000000
+      internalID: 3547774945531835944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9483a78f9fc0260800000000000000
+      internalID: 7065296761035180449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbcfedd971d59e50800000000000000
+      internalID: 6815583932439841730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 193
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09726fa40904e3a0800000000000000
+      internalID: -6637170035110282994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 192
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1eec750ffd6e10800000000000000
+      internalID: 2192688992635199428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8f0ad5912c23f0800000000000000
+      internalID: -924326896025497869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 144
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4433fccdfb74490800000000000000
+      internalID: -7762024477659806506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6401948c9ddf00800000000000000
+      internalID: 1143241973604576961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5b97617a686190800000000000000
+      internalID: -7969002505330008923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ba97ab6e4455140800000000000000
+      internalID: 4707744743247424348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079258c7719b9ada0800000000000000
+      internalID: -5933007523559429776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea5e0de847bf1b0800000000000000
+      internalID: -5621771553103040934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 144
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a1596504d07a850800000000000000
+      internalID: 6388089166430018192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59124e8e32db700800000000000000
+      internalID: 557641412030600681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566d34878929ee50800000000000000
+      internalID: 6839043171154749021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 144
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c359d4f46147a90800000000000000
+      internalID: -7317198964710360042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_59
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 144
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df494d26b8adc5050800000000000000
+      internalID: 5790743513085023485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea70317fc07c9330800000000000000
+      internalID: 3718971428560730861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ad8e3a595389b0800000000000000
+      internalID: -5079117710612389517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235c0643892c5f40800000000000000
+      internalID: 5718491270646354730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862e5e66062c23f0800000000000000
+      internalID: -924322014454471033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6c089e4e958d00800000000000000
+      internalID: 974358954791168557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d89a1a835667cf0800000000000000
+      internalID: -254905034995036854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1940f1288bc18d0800000000000000
+      internalID: -2874219593163566656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc892d628c95f7370800000000000000
+      internalID: 8322469352583633100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b7f93ce9ce55b0800000000000000
+      internalID: -5377638888611793684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4aa744e621785e0800000000000000
+      internalID: -1907535652363524888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84283f14ff2231140800000000000000
+      internalID: 4689130116741300808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9daeabf83c8efc0800000000000000
+      internalID: -3465304891177903626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87372101abd246220800000000000000
+      internalID: 2478155972117427064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab1af954b5044880800000000000000
+      internalID: -8627764713973212247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0ff5cbe45b0af0800000000000000
+      internalID: -429155967867876470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0cc2a33da73920800000000000000
+      internalID: 2970032916560350342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a3fe6b6503e6f0800000000000000
+      internalID: -656675161684859870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a66cbf11c4a3b70800000000000000
+      internalID: 8879493255436593752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e93d5784b9c300800000000000000
+      internalID: 272947745910285803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e119933a21ad20800000000000000
+      internalID: 3287955604056957344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 48
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2f024041a0cb90800000000000000
+      internalID: -7223596504944006241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cca6d2092ca260800000000000000
+      internalID: 7110103003879491733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9c44e22fa079b0800000000000000
+      internalID: -5084371414907315694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 48
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14ce2cf5863d2a0800000000000000
+      internalID: -6713907858977832503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c44ef31af71a40800000000000000
+      internalID: 5339010847048253866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f0da12d8354170800000000000000
+      internalID: 8161992374723081336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66307eb57827b70800000000000000
+      internalID: 8895321042797684443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821d63bd7aad0fe0800000000000000
+      internalID: -1221132467089632638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ef5c937100bed0800000000000000
+      internalID: -2400417005332076088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656485e525b568380800000000000000
+      internalID: -8969381198533474730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd8973e94028620800000000000000
+      internalID: 2774785397997755613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7759767a08b2e0800000000000000
+      internalID: -2109924921464881363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_92
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c2e7db2773f890800000000000000
+      internalID: -7425460330414554425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_93
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a5a4d4065795c0800000000000000
+      internalID: -4208800748006955612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a56ad95caafa60800000000000000
+      internalID: 7708663214114185417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillas-hiddenone_orig (1)_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583a427a0e395330800000000000000
+      internalID: 3700056783449634897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
